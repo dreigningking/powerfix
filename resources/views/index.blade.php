@@ -377,7 +377,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="{{asset('img/products/battery.png')}}" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/img-600x400-5.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/products/battery.png')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -391,7 +391,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="{{asset('img/products/hybrid.jpg')}}" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/img-600x400-4.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/products/hybrid.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="https://sigenergy.com/en/products/hybrid-inverter"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -405,7 +405,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="{{asset('img/products/energy_controller.jpg')}}" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/img-600x400-3.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/products/energy_controller.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="https://sigenergy.com/en/products/pv-inverter"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -419,7 +419,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="{{asset('img/products/gateway.png')}}" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/img-600x400-2.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/products/gateway.png')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="https://sigenergy.com/en/products/gateway"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -433,7 +433,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="{{asset('img/products/ev_dc.jpg')}}" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/img-600x400-1.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/products/ev_dc.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -449,7 +449,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="{{asset('img/products/apps.png')}}" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/img-600x400-1.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/products/apps.png')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="https://sigenergy.com/en/products/ac-charger"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -481,7 +481,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="{{asset('img/products/panel.png')}}" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/img-600x400-1.jpg')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="{{asset('img/products/panel.png')}}" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="https://sigenergy.com/en/products/mysigen-app"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
