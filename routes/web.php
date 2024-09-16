@@ -22,4 +22,4 @@ Route::group(['prefix'=> 'product','as'=> 'product.'],function(){
     Route::view('sigens-communication-module', 'services')->name('communication_module');
 });
 Route::view('contact', 'contact')->name('contact');
-
+/* check this */
