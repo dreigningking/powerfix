@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-lg-4 ps-lg-0 wow fadeIn" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="img/about.jpg" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="img/body_about.jpg" style="object-fit: cover;" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4 about-text wow fadeIn" data-wow-delay="1s">
@@ -79,8 +79,8 @@
     </div>
     <!-- About End -->
 
-
-    <!-- Team Start -->
+    {{--
+    
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
@@ -139,7 +139,8 @@
             </div>
         </div>
     </div>
-    <!-- Team End -->
+
+     --}}
         
 
    

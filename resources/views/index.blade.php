@@ -3,8 +3,8 @@
     <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="owl-carousel header-carousel position-relative">
-            <div class="owl-carousel-item position-relative" data-dot="<img src='{{asset('img/carousel-1.jpg')}}'>">
-                <img class="img-fluid" src="{{asset('img/carousel-1.jpg')}}" alt="">
+            <div class="owl-carousel-item position-relative" data-dot="<img src='{{asset('img/carousel-4.jpg')}}'>">
+                <img class="img-fluid" src="{{asset('img/carousel-4.jpg')}}" alt="">
                 <div class="owl-carousel-inner" style="background-color: rgb(15 15 13 / 15%);">
                     <div class="container" >
                         <div class="row justify-content-start">
@@ -330,7 +330,7 @@
                 </div>
                 <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="{{asset('img/planning.png')}}" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="{{asset('img/people.png')}}" style="object-fit: cover;" alt="">
                     </div>
                 </div>
             </div>
